@@ -1,10 +1,10 @@
  👋 Hi, I'm Mohammad Asif Raza
  A Passionate Full Stack Web Developer
 
-<h1 align="center">React | Node.js | MongoDB Lover</h1>
+<h1 align="center">React | Node.js | Express.js | MongoDB Lover</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+  
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5e/2c/2e/5e2c2e1d5e90c6d8c9a8b4a4cbb1f8a3.png" width="220" />
+  
 </p>
 
 Hi, I'm **Mohammad Asif Raza**, a final-year **Computer Science student** 🎓  
