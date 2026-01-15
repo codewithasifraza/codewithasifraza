@@ -16,7 +16,7 @@
 </p>
 
 Hi, I'm **Mohammad Asif Raza**, a final-year **Computer Science student** 🎓  
-and a passionate **Full Stack Web Developer** from 🇮🇳 India.
+and a passionate **Full Stack Web Developer** from  India 🇮🇳.
 
 - 🌱 Currently learning: **Next.js, Advanced Backend Security, Docker, AI integrations**
 - 💼 Tech Stack: **React, Node.js, MongoDB, Express, Tailwind CSS**
